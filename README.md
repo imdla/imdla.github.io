@@ -1,10 +1,12 @@
-# PORTFOLIO
-
 <img align="middle" width="100px;" src="/assets/logo.png"/>
 
-<br/>
+<p align="middle" >
+  <img width="100px;" src="/assets/logo.png"/>
+</p>
+<h1 align="middle">PORTFOLIO</h1>
+<h3 align="middle">안녕하세요 ! 함께하는 개발자, 임수빈입니다</h3>
 
-## 안녕하세요 ! 함께하는 개발자, 임수빈입니다
+<br/>
 
 > 책임감과 자기 주도적인 자세를 바탕으로 문제를 해결하고 그 과정에서 배움을 즐기며 성장하는 개발자입니다
 >
@@ -16,9 +18,7 @@
 
 <br/>
 
-### Skills
-
----
+## Skills
 
 - **Publishing** : Photoshop, Illustration, Figma
 - **Language** : JavaScript, Python
@@ -27,9 +27,7 @@
 
 <br/>
 
-### Project
-
----
+## Project
 
 - 르벨 건설사
   : 건설사 브랜드 소개와 분양 정보를 확인하고 상담 신청 할 수 있는 웹 사이트
@@ -44,9 +42,7 @@
 
 <br/>
 
-### Design
-
----
+## Design
 
 > 직접 디자인한 페이지에 CSS로 동적인 효과를 구현
 
