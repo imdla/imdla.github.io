@@ -18,10 +18,9 @@
 
 ## Skills
 
-- **Publishing** : Photoshop, Illustration, Figma
-- **Language** : JavaScript, Python
-- **Frontend** : React, Tailwind, Bootstrap, Redux, Router, jQuery
-- **Backend** : Database, Java, Spring
+- **Front-end** : HTML5, CSS3, JavaScript, Node, React, Vite, Redux, jQuery,Tailwind, Bootstrap
+- **Back-end** : Python, Java, Spring, MySQL, Docker, AWS
+- **Tools** : VSCode, Git, GitHub, Postman, Notion, Figma
 
 <br/>
 
