@@ -18,9 +18,18 @@
 
 ## Skills
 
-- **Front-end** : HTML5, CSS3, JavaScript, Node, React, Vite, Redux, jQuery,Tailwind, Bootstrap
-- **Back-end** : Python, Java, Spring, MySQL, Docker, AWS
-- **Tools** : VSCode, Git, GitHub, Postman, Notion, Figma
+- **Front-end**
+  - HTML5, CSS3, JavaScript, Node, React, Vite, Redux, jQuery, Tailwind, Bootstrap
+ 
+  <br/>
+  
+- **Back-end**
+  - Python, Java, Spring, MySQL, Docker, AWS
+
+  <br/>
+
+- **Tools**
+  - VSCode, Git, GitHub, Postman, Notion, Figma
 
 <br/>
 
