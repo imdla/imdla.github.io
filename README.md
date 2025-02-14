@@ -19,7 +19,7 @@
 ## Skills
 
 - **Front-end**
-  - HTML5, CSS3, JavaScript, Node, React, Vite, Redux, jQuery, Tailwind, Bootstrap
+  - HTML5, CSS3, JavaScript, Node, React, Redux, jQuery, Tailwind, Bootstrap
  
   <br/>
   
