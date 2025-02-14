@@ -24,12 +24,18 @@
   <br/>
   
 - **Back-end**
-  - Python, Java, Spring, MySQL, Docker, AWS
+  - Python, Java, Spring Boot, Spring Data JPA, MySQL
 
   <br/>
 
 - **Tools**
-  - VSCode, Git, GitHub, Postman, Notion, Figma
+  - VSCode, Git, GitHub, Docker, AWS, Postman, Notion, Figma
+
+<br/>
+
+## About
+
+> 본인을 상징하는 로고와 소개 문장입니다.
 
 <br/>
 
